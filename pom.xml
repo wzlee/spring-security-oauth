@@ -9,7 +9,6 @@
   <url>http://static.springframework.org/spring-security/oauth</url>
 
   <modules>
-    <module>spring-security-oauth</module>
     <module>spring-security-oauth2</module>
     <module>samples</module>
   </modules>
