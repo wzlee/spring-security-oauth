@@ -108,6 +108,7 @@ public class PhotoController {
 	@ResponseBody
 	public String getTrustedClientMessage() {
 		return "Hello, Trusted Client";
+		
 	}
 
 	@RequestMapping("/photos/user/message")
